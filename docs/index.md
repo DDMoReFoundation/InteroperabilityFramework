@@ -45,7 +45,7 @@ Each file contains an md5 checksum file.  After you downloaded the installer you
 Details are available in the [installation guide](http://downloads.mdl.community/repository/see/Foundation-2.0.1-alpha/SEEInstallationGuide_Demonstrator2.0.0.pdf).
 
 
-Online help
+Tutorials
 -----------
 
 A number of videos were developed during the DDMoRe/IMI project to demonstrate how to use and install the IOF.
