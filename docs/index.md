@@ -20,12 +20,12 @@ c:\see-installer> see.bat build full -in c:\see-full
 
 This will install the IOF into the `c:\see-full` folder.
 
-You can then run the application by double clicking the file: `c:\see-full\MDL-IDE\mdl_ide.exe`.
+* run the application by double clicking the file: `c:\see-full\MDL-IDE\mdl_ide.exe`.
 
 This will get you started with the public domain tools, but to use NONMEM and MONOLIX you will
 need to do further configuration and possibly provide your own license (evaluation licenses are available).
-For more detailed installation and configurations instructions please refer to the documentation provided with
-the release.
+
+Refer to the [full installation documentation](http://downloads.mdl.community/repository/see/Foundation-2.0.1-alpha/SEEInstallationGuide_Demonstrator2.0.1.pdf) for more detailed configuration and installation instructions.
 
 _Note:_ the application only works on Windows 64 bit operating systems at the moment.
 
