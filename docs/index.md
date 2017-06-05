@@ -8,7 +8,7 @@ Quick Start Guide
 
 <!-- It's a simple as downloading the installer file, unzipping it, and running it: -->
 
-* download the [latest release](http://downloads.mdl.community/repository/see/Foundation-2.0.1-alpha/InstallationGuide_Foundation-2.0.1-alpha.pdf)
+* download the [latest release](http://downloads.ddmore.foundation/repository/see/Foundation-2.0.1-alpha/InstallationGuide_Foundation-2.0.1-alpha.pdf)
 
 * unzip to ```C:\see-installer```
 
@@ -25,7 +25,7 @@ This will install the IOF into the `c:\see-full` folder.
 This will get you started with the public domain tools, but to use NONMEM and MONOLIX you will
 need to do further configuration and possibly provide your own license (evaluation licenses are available).
 
-Refer to the [full installation documentation](http://downloads.mdl.community/repository/see/Foundation-2.0.1-alpha/InstallationGuide_Foundation-2.0.1-alpha.pdf) for more detailed configuration and installation instructions.
+Refer to the [full installation documentation](http://downloads.ddmore.foundation/repository/see/Foundation-2.0.1-alpha/InstallationGuide_Foundation-2.0.1-alpha.pdf) for more detailed configuration and installation instructions.
 
 _Note:_ the application only works on Windows 64 bit operating systems at the moment.
 
@@ -48,9 +48,9 @@ and Simcyp.  This is summarised below:
 The latest release
 ---------------------
 
-The latest release available from the DDMoRe Foundation is [Foundation-2.0.1-alpha](http://downloads.mdl.community/repository/see/Foundation-2.0.1-alpha/).
+The latest release available from the DDMoRe Foundation is [Foundation-2.0.1-alpha](http://downloads.ddmore.foundation/repository/see/Foundation-2.0.1-alpha/).
 Each file contains an md5 checksum file.  After you downloaded the installer you should verify the integrity of the zip file before you process.
-Details are available in the [installation guide](http://downloads.mdl.community/repository/see/Foundation-2.0.1-alpha/InstallationGuide_Foundation-2.0.1-alpha.pdf).
+Details are available in the [installation guide](http://downloads.ddmore.foundation/repository/see/Foundation-2.0.1-alpha/InstallationGuide_Foundation-2.0.1-alpha.pdf).
 
 
 Tutorials
