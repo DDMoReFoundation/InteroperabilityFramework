@@ -8,7 +8,7 @@ Quick Start Guide
 
 <!-- It's a simple as downloading the installer file, unzipping it, and running it: -->
 
-* download the [latest release](http://downloads.ddmore.foundation/repository/see/Foundation-2.0.1-alpha/InstallationGuide_Foundation-2.0.1-alpha.pdf)
+* download the [latest release](http://downloads.ddmore.foundation/repository/see/Foundation-2.0.1-alpha/http://downloads.ddmore.foundation/repository/see/Foundation-2.0.1-alpha/see-installer-1.4.0-alpha-64b.zip)
 
 * unzip to ```C:\see-installer```
 
